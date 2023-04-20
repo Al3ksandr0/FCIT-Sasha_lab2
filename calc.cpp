@@ -28,7 +28,8 @@ int main()
 
         break;
 
-    case 3: // code
+    case 3:
+        result = a * b;
 
         break;
 
